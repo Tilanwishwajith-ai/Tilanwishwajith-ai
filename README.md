@@ -99,6 +99,9 @@ I'm a passionate software developer with a focus on building scalable and effici
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tilanwishwajith-ai&show_icons=true&locale=en" alt="tilanwishwajith-ai" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tilanwishwajith-ai&" alt="tilanwishwajith-ai" /></p>
+* [my LGTM collections](https://yoshi389111.github.io/LGTM/lgtm.html)
+
+![](./profile-3d-contrib/profile-green-dual.svg)
 
 ---
 ### **Fun Facts**
