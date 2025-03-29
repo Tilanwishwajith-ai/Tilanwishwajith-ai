@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tilan Wishwajith</h1>
-<h3 align="center">A Software Developer from Sri Lanka 🇱🇰</h3>
+<h3 align="center">A Software Developer from Sri Lanka </h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=tilanwishwajith-ai&label=Profile%20views&color=0e75b6&style=flat" alt="tilanwishwajith-ai" /> 
@@ -102,11 +102,10 @@ I'm a passionate software developer with a focus on building scalable and effici
 
 ---
 
-### **Fun Facts**
-- 🏆 I enjoy participating in hackathons and have won awards for innovative projects.
-- 🎨 I love designing UI/UX prototypes in my free time.
-- 🚴‍♂️ Cycling is my favorite way to unwind and stay active.
-- 🌍 I speak Sinhala, English, and a bit of Tamil.
+🏆 I enjoy participating in hackathons and have won awards for innovative projects.
+🎨 I love designing UI/UX prototypes in my free time.
+🏏 Cricket is my favorite sport, and I never miss a match!
+🌍 I speak Sinhala, English, and a bit of Tamil.
 
 ---
 
