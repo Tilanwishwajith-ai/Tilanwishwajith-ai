@@ -101,11 +101,11 @@ I'm a passionate software developer with a focus on building scalable and effici
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tilanwishwajith-ai&" alt="tilanwishwajith-ai" /></p>
 
 ---
-
-🏆 I enjoy participating in hackathons and have won awards for innovative projects.
-🎨 I love designing UI/UX prototypes in my free time.
-🏏 Cricket is my favorite sport, and I never miss a match!
-🌍 I speak Sinhala, English, and a bit of Tamil.
+### **Fun Facts**
+- 🏆 I enjoy participating in hackathons and have won awards for innovative projects.
+- 🎨 I love designing UI/UX prototypes in my free time.
+- 🏏 Cricket is my favorite sport, and I never miss a match!
+- 🌍 I speak Sinhala, English, and a bit of Tamil.
 
 ---
 
