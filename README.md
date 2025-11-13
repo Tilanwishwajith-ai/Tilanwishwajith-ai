@@ -1,4 +1,4 @@
-<img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Tilan Wishwajith</h2>
+<img alt="Hand Wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Tilan Wishwajith</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -6,7 +6,7 @@
 
 👨‍💻 &nbsp;I'm a passionate **Machine Learning Engineer** and **MERN Stack Developer**.\
 💡 &nbsp;I love exploring new technologies and building intelligent applications.\
-🎓 &nbsp;I'm a [Your Status, e.g., 'Student'] at **[Your University/Company]**.\
+🎓 &nbsp;I'm a **[Your Status, e.g., 'Student']** at **[Your University/Company]**.\
 🌱 &nbsp;I'm currently focused on deep learning and scalable web architectures.\
 💬 &nbsp;Feel free to reach out to me for project collaborations or interesting discussions.\
 ✉️ &nbsp;You can email me at **YOUR_EMAIL@gmail.com**. I'll try to respond as soon as I can.\
@@ -19,7 +19,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)&nbsp;
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
-![Node.js](httpss://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 
@@ -48,15 +48,15 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/Tilanwishwajith-ai">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tilanwishwajith-ai&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=algolia"/>
+  <a href="https://github.com/Tilanwishwajith-ai">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tilanwishwajith-ai&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Tilanwishwajith-ai&theme=dark&hide_border=true"/>
 </p>
 
 ---
@@ -65,20 +65,21 @@
 
 [![Medium](https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white)](YOUR_MEDIUM_LINK)
 &nbsp;
+
 ---
 
 ### 💰 &nbsp;Support My Work
 
-[![BuyMeACoffee](httpshttps://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](YOUR_BUYMEACOFFEE_LINK)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](YOUR_BUYMEACOFFEE_LINK)
 
 ---
 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/-Your%20Name-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/-Your%20Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="YOUR_STACKOVERFLOW_URL"><img src="https://img.shields.io/badge/-Your%20Name-F48024?style=flat&logo=Stack-Overflow&logoColor=white"/></a>
+<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/-Tilan%20Wishwajith-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/-My%20Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="YOUR_STACKOVERFLOW_URL"><img src="https://img.shields.io/badge/-Tilan%20Wishwajith-F48024?style=flat&logo=Stack-Overflow&logoColor=white"/></a>
 </p>
 
 ---
@@ -86,7 +87,7 @@
 ### 🐍 &nbsp;My GitHub Contributions
 
 <div align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+  <a href="https://github.com/Tilanwishwajith-ai">
+  <img src="https://github-readme-snake.vercel.app/api/snake?username=Tilanwishwajith-ai&theme=dark"
        alt="snake" /></a>
 </div>
