@@ -6,7 +6,7 @@
 <br>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=TilanWishwajith&label=Profile%20views&color=0047AB&style=plastic?" alt="TilanWishwajith" height="25px" width="160px"/> 
+	<img src="https://komarev.com/ghpvc/?username=Tilanwishwajith-ai&label=Profile%20views&color=0047AB&style=plastic?" alt="Tilanwishwajith-ai" height="25px" width="160px"/> 
 </p>
 
 ---
@@ -42,7 +42,7 @@
 
 <p align="center">
 	<a href="mailto:tilan.wishwajith@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/TilanWishwajith"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://github.com/Tilanwishwajith-ai"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/tilanwishwajith/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://twitter.com/tilanwishwajith"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=plastic&logo=twitter&logoColor=white" alt="Twitter"/></a>
 	<a href="https://www.kaggle.com/tilanwishwajith"><img src="https://img.shields.io/badge/kaggle-%2320BEFF.svg?style=plastic&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
@@ -148,7 +148,7 @@
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
+    <a href="https://github.com/Tilanwishwajith-ai"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker%20-%232496ED.svg?style=plastic&logo=docker&logoColor=white"></a>
   &emsp;
@@ -188,7 +188,7 @@
 
 ----	
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TilanWishwajith&theme=tokyonight_duo" alt="TilanWishwajith" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Tilanwishwajith-ai&theme=tokyonight_duo" alt="Tilanwishwajith-ai" /></p>
 
 </details>
   
@@ -198,8 +198,8 @@
 	
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="Tilan Wishwajith's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TilanWishwajith&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TilanWishwajith&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="TilanWishwajith" height="230px"/>
+	    <img alt="Tilan Wishwajith's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Tilanwishwajith-ai&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tilanwishwajith-ai&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Tilanwishwajith-ai" height="230px"/>
 <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -211,7 +211,7 @@
 
 ----
 	
-[![Tilan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=TilanWishwajith&theme=github)](https://github.com/TilanWishwajith/github-readme-activity-graph)
+[![Tilan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Tilanwishwajith-ai&theme=github)](https://github.com/Tilanwishwajith-ai/github-readme-activity-graph)
 
  
 </details>
@@ -220,7 +220,7 @@
 
 ----
 	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TilanWishwajith&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="TilanWishwajith" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Tilanwishwajith-ai&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="Tilanwishwajith-ai" /></a> </p>
 
 </details>
 	
@@ -230,17 +230,17 @@
 	
 <div>
   <p align="center">
-	<a href="https://github.com/TilanWishwajith/ML-Project-1">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=TilanWishwajith&repo=ML-Project-1&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/Tilanwishwajith-ai/ML-Project-1">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Tilanwishwajith-ai&repo=ML-Project-1&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/TilanWishwajith/Deep-Learning-Models">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=TilanWishwajith&repo=Deep-Learning-Models&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/Tilanwishwajith-ai/Deep-Learning-Models">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Tilanwishwajith-ai&repo=Deep-Learning-Models&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-    	<a href="https://github.com/TilanWishwajith/NLP-Projects">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=TilanWishwajith&repo=NLP-Projects&theme=tokyonight" alt="GitHub Stats" />
+    	<a href="https://github.com/Tilanwishwajith-ai/NLP-Projects">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Tilanwishwajith-ai&repo=NLP-Projects&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-    	<a href="https://github.com/TilanWishwajith/Computer-Vision">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=TilanWishwajith&repo=Computer-Vision&theme=tokyonight" alt="GitHub Stats" />
+    	<a href="https://github.com/Tilanwishwajith-ai/Computer-Vision">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Tilanwishwajith-ai&repo=Computer-Vision&theme=tokyonight" alt="GitHub Stats" />
     	</a>
   </p>
 </div>
