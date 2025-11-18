@@ -197,9 +197,11 @@
 ----
 	
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="Tilan Wishwajith's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Tilanwishwajith-ai&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tilanwishwajith-ai&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Tilanwishwajith-ai" height="230px"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Tilan Wishwajith's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Tilanwishwajith-ai&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="180px"/>
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tilanwishwajith-ai&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Tilanwishwajith-ai" height="180px"/>
+</p>
 <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -224,30 +226,9 @@
 
 </details>
 	
-<details><summary><h3>📁 Featured Projects</h3></summary>
 
-----
-	
-<div>
-  <p align="center">
-	<a href="https://github.com/Tilanwishwajith-ai/ML-Project-1">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Tilanwishwajith-ai&repo=ML-Project-1&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/Tilanwishwajith-ai/Deep-Learning-Models">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Tilanwishwajith-ai&repo=Deep-Learning-Models&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/Tilanwishwajith-ai/NLP-Projects">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Tilanwishwajith-ai&repo=NLP-Projects&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/Tilanwishwajith-ai/Computer-Vision">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Tilanwishwajith-ai&repo=Computer-Vision&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-  </p>
-</div>
 
-</details>
 
-<br>
 
 ---
 
