@@ -57,9 +57,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tilanwishwajith-ai&show_icons=true&theme=tokyonight&hide_border=true&v=1" height="180" alt="Tilan's Stats" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tilanwishwajith-ai&show_icons=true&theme=dark&hide_border=true&count_private=true" height="180" alt="Tilan's Stats" />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tilanwishwajith-ai&layout=compact&theme=tokyonight&hide_border=true&v=1" height="180" alt="Top Languages" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tilanwishwajith-ai&layout=compact&theme=dark&hide_border=true" height="180" alt="Top Languages" />
+</a>
 
 </div>
 
