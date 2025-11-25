@@ -57,11 +57,9 @@
 
 <div align="center">
 
-[![Tilan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tilanwishwajith-ai&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=Tilanwishwajith-ai&show_icons=true&theme=tokyonight&hide_border=true&v=1" height="180" alt="Tilan's Stats" />
 
-<br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tilanwishwajith-ai&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tilanwishwajith-ai&layout=compact&theme=tokyonight&hide_border=true&v=1" height="180" alt="Top Languages" />
 
 </div>
 
