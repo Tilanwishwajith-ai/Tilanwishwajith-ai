@@ -57,13 +57,11 @@
 
 <div align="center">
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tilanwishwajith-ai&show_icons=true&theme=dark&hide_border=true&count_private=true" height="180" alt="Tilan's Stats" />
-</a>
+[![Tilan's Stats](https://github-readme-stats.vercel.app/api?username=Tilanwishwajith-ai&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tilanwishwajith-ai&layout=compact&theme=dark&hide_border=true" height="180" alt="Top Languages" />
-</a>
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tilanwishwajith-ai&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
