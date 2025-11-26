@@ -53,15 +53,17 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (New Style)
 
 <div align="center">
 
-[![Tilan's Stats](https://github-readme-stats.vercel.app/api?username=Tilanwishwajith-ai&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tilanwishwajith-ai&theme=tokyonight" alt="Profile Details" />
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tilanwishwajith-ai&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tilanwishwajith-ai&theme=tokyonight" alt="Repos per Language" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tilanwishwajith-ai&theme=tokyonight" alt="Most Commits" />
 
 </div>
 
