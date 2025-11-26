@@ -22,8 +22,7 @@
 - 🔬 Tech Stack: **Python, TensorFlow, PyTorch, Scikit-learn**
 - 💻 **Full-Stack Development** & **Cloud Technologies**
 - 📚 Interests: **AI/ML, NLP, Computer Vision**
-- 🌐 Portfolio: [tilanwishwajith.com](https://tilanwishwajith.com)
-- 📧 Contact: tilan.wishwajith@email.com
+ - 📧 Contact: tilanwishwajith@gmail.com
 
 </td>
 <td width="50%" align="center">
@@ -53,17 +52,17 @@
 
 ---
 
-## 📊 GitHub Stats (New Style)
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tilanwishwajith-ai&theme=tokyonight" alt="Profile Details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tilanwishwajith-ai&theme=2077" alt="Profile Details" />
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tilanwishwajith-ai&theme=tokyonight" alt="Repos per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tilanwishwajith-ai&theme=2077" alt="Repos per Language" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tilanwishwajith-ai&theme=tokyonight" alt="Most Commits" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tilanwishwajith-ai&theme=2077" alt="Most Commits" />
 
 </div>
 
