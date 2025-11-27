@@ -52,19 +52,20 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tilanwishwajith-ai&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=10" alt="Most Used Languages" />
-
-<br/>
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Tilanwishwajith-ai&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="Github Stats" />
-
-</div>
-
----
+<h3 align="center">My Statistics:</h3>
+<p align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tilanwishwajith-ai&theme=dark&show_icons=true&count_private=true" alt="Tilan's GitHub Stats" />
+  <br/><br/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tilanwishwajith-ai&theme=dark&hide_border=false" alt="Tilan's Streak" /> 
+</td>
+<td width="50%" align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tilanwishwajith-ai&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" alt="Tilan's Top Languages" />
+</td>
+</tr>
+</table>
+</p>
 
 <p align="center">Made with ❤️ by Tilan Wishwajith</p>
