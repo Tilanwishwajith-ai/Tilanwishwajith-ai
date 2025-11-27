@@ -56,7 +56,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tilanwishwajith-ai&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=8&hide=c++" alt="Most Used Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tilanwishwajith-ai&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=10" alt="Most Used Languages" />
 
 <br/>
 <br/>
