@@ -5,7 +5,7 @@
 </p>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=Tilanwishwajith-ai&label=Profile%20views&color=0047AB&style=plastic" alt="Profile views" /> 
+  <img src="https://komarev.com/ghpvc/?username=Tilanwishwajith-ai&label=Profile%20views&color=0047AB&style=plastic" alt="Profile views" /> 
 </p>
 
 ---
@@ -22,7 +22,7 @@
 - 🔬 Tech Stack: **Python, TensorFlow, PyTorch, Scikit-learn**
 - 💻 **Full-Stack Development** & **Cloud Technologies**
 - 📚 Interests: **AI/ML, NLP, Computer Vision**
- - 📧 Contact: tilanwishwajith@gmail.com
+- 📧 Contact: <a href="mailto:tilanwishwajith@gmail.com">tilanwishwajith@gmail.com</a>
 
 </td>
 <td width="50%" align="center">
@@ -36,10 +36,10 @@
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="50px"> Connect with me
 
 <p align="center">
-	<a href="mailto:tilan.wishwajith@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/Tilanwishwajith-ai"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/tilanwishwajith/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://twitter.com/tilanwishwajith"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="mailto:tilan.wishwajith@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://github.com/Tilanwishwajith-ai"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/tilanwishwajith/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/tilanwishwajith"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
 </p>
 
 ---
@@ -47,7 +47,7 @@
 ## 🛠️ Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,java,r,mysql,tensorflow,pytorch,sklearn,pandas,numpy,html,css,react,django,flask,nodejs,git,docker,aws,gcp,heroku,vscode,mongodb" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,java,r,mysql,tensorflow,pytorch,sklearn,pandas,numpy,html,css,react,django,flask,nodejs,git,docker,aws,gcp,heroku,vscode,mongodb,flutter,dart" />
 </p>
 
 ---
@@ -56,13 +56,12 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tilanwishwajith-ai&theme=2077" alt="Profile Details" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tilanwishwajith-ai&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=8&hide=c++" alt="Most Used Languages" />
 
 <br/>
+<br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tilanwishwajith-ai&theme=2077" alt="Repos per Language" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tilanwishwajith-ai&theme=2077" alt="Most Commits" />
+<img src="https://github-readme-stats.vercel.app/api?username=Tilanwishwajith-ai&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="Github Stats" />
 
 </div>
 
