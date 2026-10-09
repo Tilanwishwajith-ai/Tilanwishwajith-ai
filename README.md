@@ -12,7 +12,7 @@
 </p>
 <p align="center">
   <a href="#-about-me">About Me</a> •
-  <a href="#-things-ive-built">Projects</a> •
+  <a href="#-areas-of-interest">Interests</a> •
   <a href="#-skills--tools">Skills</a> •
   <a href="#-github-activity">Activity</a> •
   <a href="#-my-contributions">Snake</a> •
@@ -34,30 +34,20 @@
       </ul>
     </td>
     <td width="50%" align="center">
-      <img alt="Animated white stick figure" width="400" src="stick-figure.svg">
+      <img alt="Coding animation" width="400" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
     </td>
   </tr>
 </table>
 ---
-💡 Things I've Built
-<!-- Replace each project title with a link to its actual repository when ready. -->
-Project	What it does	Area
-🎙️ HIRED — AI Mock Interview Platform	Helps candidates practise interviews with role-specific questions, audio responses, and automated feedback.	AI · Web Development
-💻 Laptop Price Prediction	Predicts laptop prices from hardware specifications using machine learning.	Regression · Data Science
-🧬 Breast Cancer Prediction	Explores machine learning classification using breast cancer data.	Classification · Machine Learning
-🖐️ Virtual Mouse	Explores hand gesture control for mouse interaction.	Computer Vision
-<p align="center">
-  <a href="https://github.com/Tilanwishwajith-ai?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-00D9FF?style=for-the-badge&amp;logo=github&amp;logoColor=black" alt="Explore my repositories">
-  </a>
-</p>
----
-🎯 My Focus
-Area	Topics I Explore
-🤖 Machine Learning	Data preparation, model training, evaluation, and prediction
-🧠 Deep Learning	Neural networks, NLP, and computer vision
-🌐 Full-Stack Development	Frontend interfaces, backend APIs, and database integration
-☁️ Deployment	Cloud technologies and deploying AI-powered applications
+🔬 Areas of Interest
+Area	What Interests Me
+🤖 AI & Machine Learning	Predictive models, neural networks, and model evaluation
+💬 Natural Language Processing	Understanding text, language models, and conversational AI
+👁️ Computer Vision	Image classification, object detection, and visual understanding
+📊 Data Science	Data analysis, visualization, and finding useful patterns
+💻 Software Development	Building reliable software with Python, Java, and JavaScript; problem-solving and object-oriented programming
+🌐 Full-Stack Development	Web interfaces, backend APIs, and database integration
+☁️ Cloud & Deployment	Bringing web applications and AI models online
 <details>
   <summary><strong>📚 Learning Goals</strong></summary>
 Build a deeper understanding of machine learning and deep learning.
