@@ -1,4 +1,4 @@
-h1 align="center">Hi, I'm Tilan Wishwajith <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Waving hand"></h1>
+<h1 align="center">Hi, I'm Tilan Wishwajith <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Waving hand"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -18,6 +18,7 @@ h1 align="center">Hi, I'm Tilan Wishwajith <img src="https://media.giphy.com/med
   <a href="#-featured-projects">Projects</a> •
   <a href="#-skills--tools">Skills</a> •
   <a href="#-github-activity">Activity</a> •
+  <a href="#-my-contributions">Snake</a> •
   <a href="#-connect-with-me">Contact</a>
 </p>
 
@@ -110,6 +111,15 @@ Databases, Cloud & Development Tools
   <a href="https://github.com/Tilanwishwajith-ai">
     <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tilanwishwajith-ai&amp;theme=github_dark" alt="Tilan's GitHub profile and contribution summary">
   </a>
+</p>
+
+🐍 My Contributions
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tilanwishwajith-ai/Tilanwishwajith-ai/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tilanwishwajith-ai/Tilanwishwajith-ai/output/snake.svg">
+    <img alt="Snake animation of my GitHub contributions" src="https://raw.githubusercontent.com/Tilanwishwajith-ai/Tilanwishwajith-ai/output/snake.svg">
+  </picture>
 </p>
 
 🤝 Let's Collaborate
